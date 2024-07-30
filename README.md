@@ -38,7 +38,7 @@ Esta aplicación permite visualizar datos de sismos en Perú utilizando diferent
 
 3. Ejecuta la aplicación:
     ```bash
-    python main.py
+    python SismoAPP.py
     ```
 
 ## Uso
